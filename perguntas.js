@@ -47,25 +47,25 @@ criaCartao(
 )
 
 criaCartao(
-    '9) ',
-    '',
-    ''
+    '9) Brawlhalla ',
+    'Quantos esquemas de cores Esports existem no jogo?',
+    '5'
 )
 
 criaCartao(
-    '10',
-    '',
-    ''
+    '10) Brawlhalla',
+    'Quantos esquemas de cores da Comunidade existem no jogo?',
+    '2'
 )
 
 criaCartao(
-    '11',
-    '',
-    ''
+    '11) Subnautica',
+    'Quall é o Lifepod inicial do jogo?',
+    'Lifepod 5'
 )
 
 criaCartao(
-    '12',
-    '',
-    ''
+    '12) Minecraft',
+    'Quais são os materiais necessários para construir e ativar um portal do Nether?',
+    '10 blocos de obsidiana e uma pederneira'
 )
